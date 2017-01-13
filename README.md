@@ -3,6 +3,11 @@ MongoDB stuff
 
 <b>Basic commands and stuff<b/>
 
+<b>Basic logins</b>
+```
+mongo <hostname>:<mongodbPortNum>/<databaseName> -u <user> -p <pass>
+```
+
 <b>Create login prompt</b>
 ```
 prompt = function() {
