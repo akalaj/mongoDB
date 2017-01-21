@@ -29,8 +29,8 @@ prompt = function() {
 ```
 db.createUser(
    {
-       user: "akalaj", 
-       pwd: "Catch22@", 
+       user: "admin", 
+       pwd: "password", 
        roles:["root"]
    })
    ```
